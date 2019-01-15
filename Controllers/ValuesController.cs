@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using MySql.Data.MySqlClient;
+using Test;
 
 namespace Test_Web2.Controllers
 {
@@ -14,6 +16,16 @@ namespace Test_Web2.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
+            DataBase db = new DataBase();
+            MySqlConnection conn = db.GetConnection();
+            if(conn == null) 
+            {
+                Console.WriteLine("접속 오류!");
+            }
+            else 
+            {
+                Console.WriteLine("접속 성공!");
+            }
             return new string[] { "value1", "value2" };
         }
 
