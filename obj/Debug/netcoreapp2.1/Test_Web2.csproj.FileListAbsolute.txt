@@ -1,0 +1,14 @@
+C:\Project\19-01\190115\Test_Web2\bin\Debug\netcoreapp2.1\Test_Web2.deps.json
+C:\Project\19-01\190115\Test_Web2\bin\Debug\netcoreapp2.1\Test_Web2.runtimeconfig.json
+C:\Project\19-01\190115\Test_Web2\bin\Debug\netcoreapp2.1\Test_Web2.runtimeconfig.dev.json
+C:\Project\19-01\190115\Test_Web2\bin\Debug\netcoreapp2.1\Test_Web2.dll
+C:\Project\19-01\190115\Test_Web2\bin\Debug\netcoreapp2.1\Test_Web2.pdb
+C:\Project\19-01\190115\Test_Web2\obj\Debug\netcoreapp2.1\Test_Web2.csprojAssemblyReference.cache
+C:\Project\19-01\190115\Test_Web2\obj\Debug\netcoreapp2.1\Test_Web2.csproj.CoreCompileInputs.cache
+C:\Project\19-01\190115\Test_Web2\obj\Debug\netcoreapp2.1\Test_Web2.RazorAssemblyInfo.cache
+C:\Project\19-01\190115\Test_Web2\obj\Debug\netcoreapp2.1\Test_Web2.RazorAssemblyInfo.cs
+C:\Project\19-01\190115\Test_Web2\obj\Debug\netcoreapp2.1\Test_Web2.AssemblyInfoInputs.cache
+C:\Project\19-01\190115\Test_Web2\obj\Debug\netcoreapp2.1\Test_Web2.AssemblyInfo.cs
+C:\Project\19-01\190115\Test_Web2\obj\Debug\netcoreapp2.1\Test_Web2.RazorTargetAssemblyInfo.cache
+C:\Project\19-01\190115\Test_Web2\obj\Debug\netcoreapp2.1\Test_Web2.dll
+C:\Project\19-01\190115\Test_Web2\obj\Debug\netcoreapp2.1\Test_Web2.pdb
