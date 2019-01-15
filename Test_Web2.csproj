@@ -20,11 +20,4 @@
     </Reference>
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include=".\MySql.Data.dll">
-      <HintPath>.\MySql.Data.dll</HintPath>
-      <SpecificVersion>False</SpecificVersion>
-    </Reference>
-  </ItemGroup>
-
 </Project>
